@@ -1,6 +1,7 @@
 ## Olá! Bem vindo ao meu espaço.
 
 🎒 - Cursando Engenharia de Computação - CEFET-MG
+👥 - Analista de Gestão e Gente - Commit Jr
 
 <div align="center">
   <a href="https://github.com/felipecass15122">
